@@ -52,7 +52,7 @@ Email-Spam-Classification/
 ---
 
 ## 🤝 Connect with Me
-- [LinkedIn](www.linkedin.com/in/ashishpatel8736)
+- [LinkedIn](https://www.linkedin.com/in/ashishpatel8736)
 - [GitHub](https://github.com/ashishpatel8736)
 
 ---
