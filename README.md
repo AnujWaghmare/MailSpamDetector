@@ -1,5 +1,5 @@
 
-# Email Spam Classification Application
+# Spam-Classification-Model-Application
 
 ## 📧 About the Project
 This is a **Machine Learning application** built with Python and Streamlit that classifies emails as **spam** or **ham (not spam)**. It leverages a trained ML model to analyze text input and predict whether the email is spam or not.
@@ -17,8 +17,8 @@ This is a **Machine Learning application** built with Python and Streamlit that 
 ## 🚀 How to Run
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/Email-Spam-Classification.git
-cd Email-Spam-Classification
+git clone https://github.com/ashishpatel8736/Spam-Classification-Model-Application.git
+cd Spam-Classification-Model-Application
 ```
 
 ### Step 2: Install Dependencies
@@ -41,7 +41,7 @@ streamlit run app.py
 
 ## 📂 Repository Structure
 ```plaintext
-Email-Spam-Classification/
+Spam-Classification-Model-Application/
 ├── app.py                 # Main application script
 ├── spam.pkl               # Pre-trained model
 ├── vectorizer.pkl         # TF-IDF Vectorizer
@@ -52,8 +52,8 @@ Email-Spam-Classification/
 ---
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile-name)
-- [GitHub](https://github.com/your-github-username)
+- [LinkedIn](https://www.linkedin.com/in/ashishpatel8736)
+- [GitHub](https://github.com/ashishpatel8736)
 
 ---
 
