@@ -52,8 +52,8 @@ Email-Spam-Classification/
 ---
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile-name)
-- [GitHub](https://github.com/your-github-username)
+- [LinkedIn](www.linkedin.com/in/ashishpatel8736)
+- [GitHub](https://github.com/ashishpatel8736)
 
 ---
 
