@@ -47,6 +47,7 @@ Spam-Classification-Model-Application/
 ├── vectorizer.pkl         # TF-IDF Vectorizer
 ├── requirements.txt       # List of dependencies
 └── README.md              # Project documentation
+└── icons8-github-50.png
 ```
 
 ---
