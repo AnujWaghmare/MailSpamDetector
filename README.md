@@ -52,12 +52,5 @@ Spam-Classification-Model-Application/
 
 ---
 
-## 🤝 Connect with Me
-- [![GitHub](icons8-github-50.png)](https://github.com/ashishpatel8736)
-
-- [![LinkedIn](https://img.icons8.com/ios-filled/50/0077b5/linkedin.png)](https://www.linkedin.com/in/ashishpatel8736)
-
----
-
 ## 🛡️ License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
